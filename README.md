@@ -1,5 +1,5 @@
-# Generic Template Reporting for the A2CPS program
-Docker container of Dash App to display A2CPS trial Generic Template reporting metrics.
+# Biospecimen Shipment and Data Submission Reporting for the A2CPS program
+Docker container of Dash App to display A2CPS Biospecimen Shipment and Data Submission reporting metrics.
 
 
 ## Version History
